@@ -1,4 +1,4 @@
-# 932321.bufalov.nikita.lab1
+# 932321.bufalov.nikita.lab2
 
 Учебный проект по HTML. Вариант 8
 
